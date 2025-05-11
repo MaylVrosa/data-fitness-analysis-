@@ -22,4 +22,4 @@ All CSV files are located in the `data/` folder:
 - Jupyter Notebook
 
 ## 📂 Output
-See the full analysis in `digital_fitness_analysis.ipynb`.
+See the full analysis in `digital_fitness_analysis`.
